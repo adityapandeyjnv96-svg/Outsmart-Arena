@@ -20,7 +20,7 @@
 
 ## How to Play
 
-1. Open the game in your browser or PWA.  
+1. Open the game in your browser or PWA or via Play Store or APK.  
 2. Create a room or join an existing one.  
 3. Answer logic and trick questions faster than your opponent.  
 4. Earn points, climb the leaderboard, and unlock achievements.  
