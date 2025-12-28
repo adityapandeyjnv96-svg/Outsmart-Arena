@@ -30,9 +30,9 @@
 ## Installation / Demo
 
 You can play directly via:  
-coming soon
+COMING SOON
 
-stay updated 
+STAY UPDATED
 
 Jay Shree Ram 
 
